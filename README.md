@@ -10,7 +10,8 @@ Companies receive hundreds of complaints every day and most of them are long, re
 
 # Dataset
 
-The dataset was sourced from kaggle - https://www.kaggle.com/datasets/adhamelkomy/bank-customer-complaint-analysis
+The dataset was sourced from kaggle - https://www.kaggle.com/datasets/adhamelkomy/bank-customer-complaint-analysis. 
+
 The dataset includes real customer complaints from the banking sector, along with product categories and complaint narratives. These narratives form the base for summarization and sentiment analysis.
 
 # Technical Aspects
@@ -18,7 +19,3 @@ The dataset includes real customer complaints from the banking sector, along wit
 **Libraries :** transformers, pandas, tqdm, nltk
 **Model :** philschmid/bart-large-cnn-samsum (a BART model fine-tuned for summarizing conversational text)
 
-# Key function 
-
-
-# Output

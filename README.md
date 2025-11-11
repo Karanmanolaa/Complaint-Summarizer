@@ -17,5 +17,6 @@ The dataset includes real customer complaints from the banking sector, along wit
 # Technical Aspects
 
 **Libraries :** transformers, pandas, tqdm, nltk
+
 **Model :** philschmid/bart-large-cnn-samsum (a BART model fine-tuned for summarizing conversational text)
 

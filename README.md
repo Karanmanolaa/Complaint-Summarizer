@@ -1,3 +1,5 @@
+![Customer Service Header](assets/customer-service_header_FO.jpg)
+
 # Overview
 
 This project focuses on turning long, messy customer complaints into short, clear summaries.I have used a BART-based model from Hugging Face ,

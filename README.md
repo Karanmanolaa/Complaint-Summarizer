@@ -22,3 +22,7 @@ The dataset includes real customer complaints from the banking sector, along wit
 
 **Model :** philschmid/bart-large-cnn-samsum (a BART model fine-tuned for summarizing conversational text)
 
+
+
+mention the reason why you choosed this specific model --------
+

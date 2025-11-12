@@ -22,7 +22,5 @@ The dataset includes real customer complaints from the banking sector, along wit
 
 **Model :** philschmid/bart-large-cnn-samsum (a BART model fine-tuned for summarizing conversational text)
 
-
-
-mention the reason why you choosed this specific model --------
-
+The reason behind using this model is that it is fine-tuned for summarizing conversational or dialogue-style text which was the perfect fit for the complaint dataset . I tried a few other summarization models like facebook/bart-large-cnn and sshleifer/distilbart-cnn-12-6.
+While both are strong models, they didn’t perform well on my dataset because they’re mainly trained on news-style or long-form articles (like CNN/DailyMail summaries).
